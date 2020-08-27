@@ -8,3 +8,5 @@ I maintain a handful list of Docker Images, mostly to speedup the development an
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madduci&count_private=true&show_icons=true&theme=dark)
+
+![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madduci&layout=compact)
