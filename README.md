@@ -9,5 +9,3 @@ Here on GitHub I keep some of my side-projects, such as some Docker Images, used
 You can find more information about me on my personal site at https://madduci.netlify.app
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madduci&count_private=true&show_icons=true&theme=dark)
-
-![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madduci&layout=compact)
