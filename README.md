@@ -4,4 +4,4 @@ I'm Michele Adduci, a Computer Engineer and iSAQB-certified Software Architect w
 
 I focus mainly on Software Engineering, with the ability to work across heterogeneous systems and different programming languages, mainly C++, Java and PHP.
 
-You can find more information about me on my personal site at https://michele.adduci.org
+You can find more information about me on my personal site at https://michele.adduci.org or you can reach me over <a target="_blank" rel="me" href="https://mastodon.social/@madduci">Mastodon</a>
